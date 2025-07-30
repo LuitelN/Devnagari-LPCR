@@ -1,4 +1,4 @@
-# Character OCR Classifier (TensorFlow + CNN)
+# Nepali Vehicle License Plate Character Recognition
 
 This project is a simple Optical Character Recognition (OCR) system built using TensorFlow and Keras. It trains a Convolutional Neural Network (CNN) to recognize **34 different characters** from grayscale images (28x28 pixels), using a dataset stored in the `character_ocr` folder.
 Dataset Link: https://www.kaggle.com/datasets/inspiring-lab/nepali-number-plate-characters-dataset?resource=download
